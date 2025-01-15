@@ -1,6 +1,6 @@
-# Quick P2P File Transfer
+# # QuickP2P Client
 
-A simple peer-to-peer file transfer application that lets friends quickly share files after a secure handshake.
+Part of the QuickP2P file transfer system. A fast and secure peer-to-peer file transfer solution.
 
 ## Project Checklist
 
@@ -52,3 +52,5 @@ A simple peer-to-peer file transfer application that lets friends quickly share 
 
 ## Current Status
 🚧 Setting up basic P2P connectivity
+
+
