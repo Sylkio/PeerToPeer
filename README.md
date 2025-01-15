@@ -1,6 +1,6 @@
-# # QuickP2P Client
+# # QuicklyP2P Client
 
-Part of the QuickP2P file transfer system. A fast and secure peer-to-peer file transfer solution.
+Part of the QuicklyP2P file transfer system. A fast and secure peer-to-peer file transfer solution.
 
 ## Project Checklist
 
